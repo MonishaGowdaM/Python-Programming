@@ -1,0 +1,72 @@
+# Python Programming
+
+A collection of basic Python programs demonstrating fundamental programming concepts and problem-solving techniques.
+
+## Programs Included
+
+### 1. Armstrong Number (`armstrong.py`)
+
+Checks whether a given number is an Armstrong number.
+
+### 2. Count Digits (`digits.py`)
+
+Counts the number of digits present in a given number.
+
+### 3. Factors of a Number (`factors.py`)
+
+Finds and displays all factors of a given number.
+
+### 4. Leap Year (`leapyear.py`)
+
+Determines whether a given year is a leap year.
+
+### 5. Natural Numbers (`natural no.py`)
+
+Performs operations related to natural numbers.
+
+### 6. Palindrome Number (`palindrome.py`)
+
+Checks whether a given number or string is a palindrome.
+
+### 7. Reverse Number (`reverse.py`)
+
+Reverses the digits of a given number.
+
+## Requirements
+
+* Python 3.x
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/MonishaGowdaM/Python-Programming.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Python-Programming
+```
+
+3. Run any Python file:
+
+```bash
+python armstrong.py
+```
+
+Replace `armstrong.py` with the desired program file name.
+
+## Learning Objectives
+
+* Python syntax and fundamentals
+* Conditional statements
+* Loops
+* Functions
+* Number-based algorithms
+* Problem-solving techniques
+
+## Author
+
+**Monisha Gowda M**
