@@ -52,6 +52,11 @@ The Highest Common Factor (HCF) of two or more numbers is the largest number tha
 
 The Greatest Common Divisor (GCD) of two or more numbers is the largest positive integer that divides all the given numbers exactly without leaving a remainder.
 
+### 13. ORD AND CHR ('ordchr.py')
+
+ord() is a Python function that returns the ASCII (or Unicode) value of a character.
+chr() is a Python function that returns the character corresponding to an ASCII (or Unicode) value.
+
 ## Requirements
 
 * Python 3.x
