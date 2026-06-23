@@ -36,6 +36,10 @@ Reverses the digits of a given number.
 
 Finding the factors of a number using square root method.
 
+### 9 . Count Number ('countnum.py')
+
+The "Count Number of Factors" problem involves finding the total number of factors (divisors) of a given number. A factor of a number is an integer that divides the number exactly without leaving a remainder.
+
 ## Requirements
 
 * Python 3.x
