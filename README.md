@@ -32,7 +32,7 @@ Checks whether a given number or string is a palindrome.
 
 Reverses the digits of a given number.
 
-### 8 . Square Root ('squareroot.py')
+### 8 . Square Root (`squareroot.py`)
 
 Finding the factors of a number using square root method.
 
