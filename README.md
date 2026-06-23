@@ -40,6 +40,10 @@ Finding the factors of a number using square root method.
 
 The "Count Number of Factors" problem involves finding the total number of factors (divisors) of a given number. A factor of a number is an integer that divides the number exactly without leaving a remainder.
 
+### 10. Prime Number ('primenum.py')
+
+A prime number is a natural number greater than 1 that has exactly two factors: 1 and itself.
+
 ## Requirements
 
 * Python 3.x
