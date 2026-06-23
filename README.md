@@ -44,6 +44,10 @@ The "Count Number of Factors" problem involves finding the total number of facto
 
 A prime number is a natural number greater than 1 that has exactly two factors: 1 and itself.
 
+### 11. HCF ('hcf.py')
+
+The Highest Common Factor (HCF) of two or more numbers is the largest number that divides all the given numbers exactly without leaving a remainder.
+
 ## Requirements
 
 * Python 3.x
