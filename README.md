@@ -48,6 +48,10 @@ A prime number is a natural number greater than 1 that has exactly two factors: 
 
 The Highest Common Factor (HCF) of two or more numbers is the largest number that divides all the given numbers exactly without leaving a remainder.
 
+### 12. GCD
+
+The Greatest Common Divisor (GCD) of two or more numbers is the largest positive integer that divides all the given numbers exactly without leaving a remainder.
+
 ## Requirements
 
 * Python 3.x
