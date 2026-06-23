@@ -36,23 +36,23 @@ Reverses the digits of a given number.
 
 Finding the factors of a number using square root method.
 
-### 9 . Count Number ('countnum.py')
+### 9 . Count Number (`countnum.py`)
 
 The "Count Number of Factors" problem involves finding the total number of factors (divisors) of a given number. A factor of a number is an integer that divides the number exactly without leaving a remainder.
 
-### 10. Prime Number ('primenum.py')
+### 10. Prime Number (`primenum.py`)
 
 A prime number is a natural number greater than 1 that has exactly two factors: 1 and itself.
 
-### 11. HCF ('hcf.py')
+### 11. HCF (`hcf.py`)
 
 The Highest Common Factor (HCF) of two or more numbers is the largest number that divides all the given numbers exactly without leaving a remainder.
 
-### 12. GCD
+### 12. GCD (`gcd.py`)
 
 The Greatest Common Divisor (GCD) of two or more numbers is the largest positive integer that divides all the given numbers exactly without leaving a remainder.
 
-### 13. ORD AND CHR ('ordchr.py')
+### 13. ORD AND CHR (`ordchr.py`)
 
 ord() is a Python function that returns the ASCII (or Unicode) value of a character.
 chr() is a Python function that returns the character corresponding to an ASCII (or Unicode) value.
