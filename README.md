@@ -93,7 +93,7 @@ Demonstrates string/list indexing and slicing to access and extract elements.
 
 Demonstrates the creation of an object by instantiating a class in Python.
 
-### 23 . POLYMORPHISM (`polymorphism`)
+### 23 . POLYMORPHISM (`polymorphism.py`)
 
 Demonstrates polymorphism, where the same method behaves differently for different objects.
 
