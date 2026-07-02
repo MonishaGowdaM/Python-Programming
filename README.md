@@ -61,6 +61,62 @@ chr() is a Python function that returns the character corresponding to an ASCII 
 
 The Fibonacci series is a sequence of numbers where each number is the sum of the two preceding numbers.
 
+### 15 . NO PARAMETER AND NO RETURN VALUE (`d1.py`)
+
+Demonstrates a function with no parameters and no return value.
+
+### 16 . NO PARAMETER AND A RETURN VALUE (`d2.py`)
+
+Demonstrates a function with no parameters and a return value.
+
+### 17. PARAMETER AND NO RETURN VALUE (`d3.py')
+
+Demonstrates a function with parameters and no return value.
+
+### 18. PARAMETER AND RETURN VALUE (`d4.py')
+
+Demonstrates a function with parameters and a return value.
+
+### 19. VARIOUS WAY TO DECLARE INSTANCE VARIABLE (`instance.py`)
+
+Shows different ways to declare and initialize instance variables in Python classes.
+
+### 20. STRING INTERNING (`interning.py`)
+
+Explains string interning, where identical immutable strings share the same memory location.
+
+### 21. INDEXING AND SLICING (`is.py`)
+
+Demonstrates string/list indexing and slicing to access and extract elements.
+
+### 22. ACTUAL CREATION OF AN OBJECT (`object.py`)
+
+Demonstrates the creation of an object by instantiating a class in Python.
+
+### 23 . POLYMORPHISM (`polymorphism`)
+
+Demonstrates polymorphism, where the same method behaves differently for different objects.
+
+### 24 . RECURSION (`recursion.py`)
+
+Shows how a recursive function calls itself to solve a problem.
+
+### 25 . REMOVING SPACES USING BUILTIN FUNCTION AND SPACES BETWEEN THE CHARACTER STRING (`removingspace.py`)
+
+Demonstrates different methods to remove spaces from a string.
+
+### 26 . STATIC VARIABLE (`staticvariable.py`)
+
+Explains static (class) variables that are shared among all objects of a class.
+
+### 27 . STRING COMPARISON (`stringcomparison.py`)
+
+Demonstrates different ways to compare strings using comparison operators and methods.
+
+### 28 . SUBSTRING (`substring.py`)
+
+Shows how to extract or check substrings within a string using slicing and built-in methods.
+
 ## Requirements
 
 * Python 3.x
