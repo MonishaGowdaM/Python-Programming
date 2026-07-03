@@ -69,11 +69,11 @@ Demonstrates a function with no parameters and no return value.
 
 Demonstrates a function with no parameters and a return value.
 
-### 17. PARAMETER AND NO RETURN VALUE (`d3.py')
+### 17. PARAMETER AND NO RETURN VALUE (`d3.py`)
 
 Demonstrates a function with parameters and no return value.
 
-### 18. PARAMETER AND RETURN VALUE (`d4.py')
+### 18. PARAMETER AND RETURN VALUE (`d4.py`)
 
 Demonstrates a function with parameters and a return value.
 
