@@ -149,6 +149,18 @@ Demonstrates the use of the map() function to apply a function to every element 
 
 Demonstrates using map() with a lambda function to transform iterable elements efficiently.
 
+### 37. NON LOCAL VARIABLE (`nonlocalvariable.py`)
+
+Demonstrates the use of the nonlocal keyword to modify variables in an enclosing function scope.
+
+### 38. PASSING FUNCTION AS ARGUMENT (`passigfunctionasargument.py`)
+
+Demonstrates passing a function as an argument to another function (higher-order functions).
+
+### 39. TRY_EXCEPT (`try_except`)
+
+Demonstrates exception handling using try and except blocks to prevent program crashes.
+
 ## Requirements
 
 * Python 3.x
