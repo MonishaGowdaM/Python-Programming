@@ -54,21 +54,27 @@
 #     print(a)
 # fun1()
 
-class Demo:
-    x = 11
+# class Demo:
+#     x = 11
 
-    def __init__(self):
-        self.y = 22
-        self.z = 33
+#     def __init__(self):
+#         self.y = 22
+#         self.z = 33
 
-    def disp(self):
-        print(self.y)
-        print(self.z)
-        a = 10
-        b = 20
-        c = a + b
-        print(c)
+#     def disp(self):
+#         print(self.y)
+#         print(self.z)
+#         a = 10
+#         b = 20
+#         c = a + b
+#         print(c)
 
-d = Demo()
-print(Demo.x)
-d.disp()
+# d = Demo()
+# print(Demo.x)
+# d.disp()
+
+def fun(sina,sinb,cosa,cosb):
+    x = (sina * cosb) + (cosa * sinb)
+    return x
+res = fun(10, 20, 30, 40)
+print(res)
