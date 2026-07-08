@@ -69,11 +69,11 @@ Demonstrates a function with no parameters and no return value.
 
 Demonstrates a function with no parameters and a return value.
 
-### 17. PARAMETER AND NO RETURN VALUE (`d3.py')
+### 17. PARAMETER AND NO RETURN VALUE (`d3.py`)
 
 Demonstrates a function with parameters and no return value.
 
-### 18. PARAMETER AND RETURN VALUE (`d4.py')
+### 18. PARAMETER AND RETURN VALUE (`d4.py`)
 
 Demonstrates a function with parameters and a return value.
 
@@ -115,7 +115,51 @@ Demonstrates different ways to compare strings using comparison operators and me
 
 ### 28 . SUBSTRING (`substring.py`)
 
-Shows how to extract or check substrings within a string using slicing and built-in methods.
+Shows how to extract or check substrings within a string using slicing and built-in methods. 
+
+### 29 . AGGREGRATE FUNCTION (`aggregrate.py`)
+
+Demonstrates aggregation, where one class contains a reference to another class and both can exist independently.
+
+### 30 . AGGREGATE AND COMPOSITION (`aggregate and composition.py`)
+
+Compares aggregation and composition, highlighting their differences and use cases in object-oriented programming.
+
+### 31 . ARRAYLIST (`arraylist.py`)
+
+Demonstrates Python lists (dynamic arrays) and common operations such as adding, removing, and accessing elements.
+
+### 32. COMPOSITION (`composition.py`)
+
+Demonstrates composition, where one class owns another class and its lifetime depends on the parent object.
+
+### 33. FILTER FUNCTION (`filterfunction.py`)
+
+Demonstrates the use of the filter() function to select elements that satisfy a given condition.
+
+### 34. LAMBDA FUNCTION (`lambdafunction.py`)
+
+Demonstrates lambda (anonymous) functions for writing short, inline functions.
+
+### 35. MAP FUNCTION ('mapfunction.py`)
+
+Demonstrates the use of the map() function to apply a function to every element in an iterable.
+
+### 36. MAP WITH LAMBDA (`mapwithlambda.py`)
+
+Demonstrates using map() with a lambda function to transform iterable elements efficiently.
+
+### 37. NON LOCAL VARIABLE (`nonlocalvariable.py`)
+
+Demonstrates the use of the nonlocal keyword to modify variables in an enclosing function scope.
+
+### 38. PASSING FUNCTION AS ARGUMENT (`passigfunctionasargument.py`)
+
+Demonstrates passing a function as an argument to another function (higher-order functions).
+
+### 39. TRY_EXCEPT (`try_except`)
+
+Demonstrates exception handling using try and except blocks to prevent program crashes.
 
 ## Requirements
 
