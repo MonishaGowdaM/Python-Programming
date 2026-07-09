@@ -161,6 +161,14 @@ Demonstrates passing a function as an argument to another function (higher-order
 
 Demonstrates exception handling using try and except blocks to prevent program crashes.
 
+### 40. DYNAMIC LIST CREATION (`list.py`)
+
+This project demonstrates how to create and manipulate dynamic lists in Python using built-in list operations such as append, insert, remove, update, and iteration.
+
+### 41. EXCEPTION HANDLING (FINALLY) (`finally.py`)
+
+This project demonstrates Python exception handling using try, except, and finally to manage errors and ensure cleanup code always executes.
+
 ## Requirements
 
 * Python 3.x
